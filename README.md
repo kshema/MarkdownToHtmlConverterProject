@@ -4,5 +4,9 @@
 - The files updated for this project are
     - app/Http/Controllers/MarkdownToHtmlController.php
     - resources/views/markdown-to-html
+          - convert.blade.php
+          - index.blade.php
     - routes/web.php
     - tests
+          - Feature/MarkdownToHtmlConverterTest
+          - Unit/MarkdownToHtmlConverterUnitTest
